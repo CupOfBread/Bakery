@@ -1,7 +1,7 @@
 <script setup lang="ts">
 </script>
 
-<template>Hello, there!</template>
+<template>This is Component</template>
 
 <style scoped lang="scss">
 </style>
