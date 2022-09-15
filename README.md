@@ -1,8 +1,8 @@
 <p align='center'>
   <img src='https://tva1.sinaimg.cn/large/005I8CXily1h6789ciuddj3098098q3f.jpg' alt='Bakery' width='200'/>
 </p>
-<p align='center' ><font size=5>Bakery</font></p>
-<p align='center' ><font size=2>极速构建Web应用</font></p>
+<p align='center' ><font size=4>Bakery</font></p>
+<p align='center' ><font>极速构建Web应用</font></p>
 
 <br>
 
@@ -37,7 +37,9 @@ yarn dev
 ```
 
 ## 协议
+
 MIT-License
 
 ## 灵感
+
 - [Vitesse](https://github.com/antfu/vitesse)
